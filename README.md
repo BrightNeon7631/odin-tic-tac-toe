@@ -1,1 +1,50 @@
-# odin-tic-tac-toe
+# Odin Project #9: Tic Tac Toe
+
+The goal of this Odin Project assignment was to create a Tic Tac Toe game.
+
+I started and finished this project in August 2022.
+
+## Assignment
+
+[The Odin Project - JavaScript - #9 Tic Tac Toe](https://www.theodinproject.com/lessons/node-path-javascript-tic-tac-toe)
+
+## Technology
+
+- HTML
+- CSS
+- Vanilla JavaScript
+
+## Key Concepts
+
+- Module Design Pattern
+- Factory Functions
+- Arrays & Objects
+- Scope
+
+## Links
+
+[Live Demo](https://brightneon7631.github.io/odin-tic-tac-toe/)
+
+[My Other Projects](https://brightneon7631.github.io/odin-scrimba-projects/)
+
+## Screenshots
+
+### Desktop
+
+![Desktop Screenshot](screenshots/desktop1.png)
+
+![Desktop Screenshot](screenshots/desktop2.png)
+
+### Mobile
+
+![Mobile Screenshot](screenshots/mobile.png)
+
+## Font source
+
+- https://fonts.google.com/specimen/Press+Start+2P
+
+## Deployment
+
+```bash
+  git clone
+```
